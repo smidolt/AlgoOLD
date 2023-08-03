@@ -63,8 +63,5 @@ The strategy determines the exit points using the `populate_exit_trend` method w
 
 ## Disclaimer
 
-This strategy is provided for educational purposes only and should not be considered financial advice. Use it at your own risk and make sure to test it thoroughly before using it in a live trading environment. Past performance is not indicative of future results. Always do your own research before making any investment decisions.
+This strategy is provided for educational purposes only and should not be considered financial advice. Use it at your own risk and make sure to test it thoroughly before using it in a live trading environment.
 
-## Credits
-
-This strategy was created by [Your Name/Username] and is inspired by various publicly available trading strategies. Feel free to modify and improve it according to your needs. If you find any issues or have suggestions, please feel free to open an issue or submit a pull request. Happy trading!
