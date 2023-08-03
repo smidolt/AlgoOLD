@@ -55,8 +55,8 @@
     ],
     "telegram": {
         "enabled": true,
-        "token": "6407385580:AAHeWUZuD86dwZLCcwika02CG5oPHf5p2dE",
-        "chat_id": "918597028"
+        "token": "xxxx",
+        "chat_id": "91xxxx"
     },
 
     "bot_name": "SmidoltStrategy",
